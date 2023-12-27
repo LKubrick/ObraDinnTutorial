@@ -9,6 +9,8 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Effects_Dither
   m_Shader: {fileID: 4800000, guid: 905c4a56de8db0c46b799380e9a3990f, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -17,6 +19,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -41,8 +44,8 @@ Material:
     - _Threshold: 0.1
     - _Tiling: 192
     m_Colors:
-    - _BL: {r: -0.59978694, g: -0.608998, b: 0.5190155, a: 0}
-    - _BR: {r: 0.6979053, g: -0.60899794, b: 0.37689474, a: 0}
-    - _TL: {r: -0.57503444, g: 0.33803603, b: 0.7450282, a: 0}
-    - _TR: {r: 0.7226578, g: 0.33803606, b: 0.6029074, a: 0}
+    - _BL: {r: -0.5980259, g: -0.7426656, b: 0.30135158, a: 0}
+    - _BR: {r: 0.66950154, g: -0.7426656, b: -0.014679084, a: 0}
+    - _TL: {r: -0.4506201, g: 0.01651756, b: 0.892563, a: 0}
+    - _TR: {r: 0.81690735, g: 0.01651756, b: 0.57653236, a: 0}
   m_BuildTextureStacks: []
