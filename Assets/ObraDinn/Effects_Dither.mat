@@ -2,14 +2,15 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Effects_Dither
   m_Shader: {fileID: 4800000, guid: 905c4a56de8db0c46b799380e9a3990f, type: 3}
-  m_ShaderKeywords: 
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -35,12 +36,13 @@ Material:
         m_Texture: {fileID: 2800000, guid: 804445fbbe7bb7b45811df97d72ae11b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _Threshold: 0.1
     - _Tiling: 192
     m_Colors:
-    - _BL: {r: -0.69537854, g: -0.5381522, b: -0.47627816, a: 0}
-    - _BR: {r: 0.020674119, g: -0.5381522, b: 0.8425941, a: 0}
-    - _TL: {r: -0.8823647, g: 0.28458542, b: -0.3747581, a: 0}
-    - _TR: {r: -0.16631207, g: 0.28458542, b: 0.9441141, a: 0}
+    - _BL: {r: -0.59978694, g: -0.608998, b: 0.5190155, a: 0}
+    - _BR: {r: 0.6979053, g: -0.60899794, b: 0.37689474, a: 0}
+    - _TL: {r: -0.57503444, g: 0.33803603, b: 0.7450282, a: 0}
+    - _TR: {r: 0.7226578, g: 0.33803606, b: 0.6029074, a: 0}
   m_BuildTextureStacks: []
